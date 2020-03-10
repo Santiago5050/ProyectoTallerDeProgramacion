@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Social", "value": 0
+    },
+    {
+        "nombre": "Industrial", "value" : 1
+    },
+    {
+        "nombre": "Educativo", "value": 2
+    },
+    {
+        "nombre": "Interdiciplinario", "value" : 3
+    }
+]

@@ -1,0 +1,50 @@
+.login {
+    background-color: #00e5ff;
+    color: #343a40;
+    padding: 8px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #00e5ff;
+}
+.login:hover {
+    background-color: #008999;
+    color: #343a40;
+    text-decoration: none;
+}
+.signup {
+    background-color: #343a40;
+    color: #00e5ff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #00e5ff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 5px;
+    padding: 7px;
+}
+.signup:hover {
+    text-decoration: none;
+    background-color: #008999;
+    border-color: #008999;
+    color: #343a40;
+}
+
+#info-user {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+#info-user p{
+    color: white;
+}
+#info-user img{
+    height: 3em;
+    margin-left: 1em;
+}
+
+#logout-mobile-button {
+    border-color: red;
+    color: red;
+}

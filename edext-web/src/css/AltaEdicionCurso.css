@@ -1,0 +1,136 @@
+.alta-edicion-curso .fila-datos{
+    padding-top: 1em;
+}
+
+.alta-edicion-curso .columna-datos{
+    border: #54BF81 solid 2px;
+    border-radius: 5px;
+    padding: 1em;
+}
+
+.alta-edicion-curso .columna-datos input:focus{
+    border: #54BF81 solid 1px;
+    box-shadow: 0 0 0 0.2rem rgba(16, 255, 0, 0.37);
+}
+
+.alta-edicion-curso .columna-datos #nro-cupo-alta-edicion{
+    margin-left: 1em;
+    width: 3em;
+    text-align: center;
+}
+
+.alta-edicion-curso .contenedor-foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alta-edicion-curso .custom-swith {
+    padding-top: 0px;
+}
+
+.alta-edicion-curso .custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #54BF81;
+    background-color: #54BF81;
+}
+
+/* FILA DOCENTES */
+
+.alta-edicion-curso .fila-docentes .container-table-docentes{
+    margin-top: 1em;
+    border: #54BF81 solid 2px;
+    border-radius: 5px;
+}
+
+.alta-edicion-curso .fila-docentes .container-table-docentes .contenedor-opciones a{
+    font-size: 1.3em;
+    margin-left: 1em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.alta-edicion-curso .fila-docentes .container-table-docentes .contenedor-opciones {
+    display: flex;
+}
+
+.alta-edicion-curso .fila-docentes .container-table-docentes .contenedor-opciones  a:hover{
+    cursor: pointer;
+    color: #00364D;
+}
+
+.alta-edicion-curso .fila-docentes .container-table-docentes .contenedor-opciones  a:active{
+    cursor: pointer;
+    color: #00E5FF;
+}
+
+.alta-edicion-curso .fila-docentes .container-table-docentes .custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    background-color: #54BF81;
+    border-color: #54BF81;
+}
+
+/* Boton Aceptar */
+.alta-edicion-curso {
+    padding-top: 1em;
+}   
+
+.alta-edicion-curso .fila-btn-aceptar {
+    border: #54BF81 solid 2px;
+    border-radius: 5px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #54BF81
+}
+
+.alta-edicion-curso .fila-btn-aceptar .col-datos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.alta-edicion-curso .fila-btn-aceptar .contenedor-btn-aceptar {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+}
+
+.alta-edicion-curso .fila-btn-aceptar p {
+    flex: 1 1 100%;
+    margin: 0px;
+    font-size: 2em;
+    color: white;
+    border-bottom: #00364D solid 1px;
+    margin-bottom: .5em;
+}
+
+.alta-edicion-curso .fila-btn-aceptar span {
+    font-size: 1.2em;
+    color: white;
+}
+
+.alta-edicion-curso .fila-btn-aceptar button {
+    color: black;
+    background-color: #54BF81;
+    border-color: black;
+    box-shadow: none;
+}
+
+.alta-edicion-curso .fila-btn-aceptar button:hover {
+    color: black;
+    background-color: #8EF8B7;
+    border-color: #8EF8B7;
+    box-shadow: none;
+}
+
+.alta-edicion-curso .fila-btn-aceptar button:active {
+    color: black !important;
+    background-color: #54BF81 !important;
+    border-color: #54BF81 !important;
+    box-shadow: none !important;
+}
+
+.edicion-ya-existe-3498 {
+    color: red !important;
+    font-weight: bold !important;
+  }

@@ -1,0 +1,20 @@
+#videoModal  .btn-primary {
+    color: white;
+    background-color: #54BF81;
+    border-color: #54BF81;
+    box-shadow: none;
+}
+
+#videoModal  .btn-primary:hover {
+    color: white;
+    background-color: #8EF8B7;
+    border-color: #8EF8B7;
+    box-shadow: none;
+}
+
+#videoModal  .btn-primary:active {
+    color: white !important;
+    background-color: #54BF81 !important;
+    border-color: #54BF81 !important;
+    box-shadow: none !important;
+}

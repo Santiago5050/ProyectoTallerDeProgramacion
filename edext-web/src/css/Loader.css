@@ -1,0 +1,11 @@
+#loader-animation {
+    display: flex !important;
+    justify-content: center !important;
+    height: 70vh !important;
+    width: 100% !important;
+    align-items: center !important;
+}
+
+#loader-text {
+    padding-top: 150px !important;
+}

@@ -1,0 +1,176 @@
+[{
+    
+    "nombre" : "Taller de robótica educativa",
+    "descripcion" : "La asignatura se organiza en dos etapas. La primer etapa se dicta a través de clases teóricoprácticas, donde se espera además que cada estudiante le dedique horas de estudio. La segunda etapa consiste en que los estudiantes trabajen en grupo sobre el diseño e implementación de una experiencia didáctica de inclusión del robot Butiá en el aula, utilizando los conocimientos aprendidos en clase.",
+    "duracion" : "8 semanas",
+    "cantidadHoras" : 90,
+    "fechaDeRegistro" : "02/02/2017",
+    "creditos" : 6,
+    "previas": [],
+    "ediciones" : ["Taller de robótica educativa - 2017", "Taller de robótica educativa - 2019", "Taller de robótica educativa - 2019-2"],
+    "programas" : ["P3"],
+    "categorias" : ["Social","Educativo"],
+    "instituto" : "INCO",
+    "url" : "https://eva.fing.edu.uy/course/view.php?id=1187",
+    "src" : "http://bit.ly/2m1cR9J"
+
+
+}, 
+{
+    
+    "nombre" : "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela",
+    "descripcion" : "Se propone desarrollar una aplicación interactiva para tablet Android basada en el juego de tablero Komikan (versión web del juego https://codepen.io/Borborem/full/OvZBvZ/), que incluya los distintos aspectos concernientes al juego, así como a situaciones específicas particulares.",
+    "duracion" : "9 semanas",
+    "cantidadHoras" : 45,
+    "fechaDeRegistro" : "15/6/2019",
+    "creditos" : 3,
+    "previas": [],
+    "ediciones" : ["Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019"],
+    "programas" : ["Formación integral"],
+    "categorias" : ["Educativo"],
+    "instituto" : "INCO",
+    "url" : "https://eva.fing.edu.uy/mod/folder/view.php?id=89398",
+    "src" : ""
+
+},  
+{
+    
+    "nombre" : "Talleres plenarios",
+    "descripcion" : "*Talleres  plenarios*:  presentados  por  cuatro  reconocidosmatemáticos uruguayos, plantearán diversos tópicos de matemáticaen  el  marco  de  los  cuales  se  realizarán  actividades  fomentando  la integración entre estudiantes, docentes e investigadores",
+    "duracion" : "3 semanas",
+    "cantidadHoras" : 15,
+    "fechaDeRegistro" : "01/2/2019",
+    "creditos" : 1,
+    "previas": [],
+    "ediciones" : ["Talleres Plenarios - 2019"],
+    "programas" : [""],
+    "categorias" : [],
+    "instituto" : "IMERL",
+    "url" : "www.tmu.edu.uy",
+    "src" : "http://bit.ly/2kPof8A"
+
+},
+{
+    
+    "nombre" : "Seminarios  de  Resolución  de Problema",
+    "descripcion" : "Seminario,*todos  los  jueves*  en  Facultad  de  Ingeniería  apartir del jueves 25 de Julio, en las áreas en que se desarrollan losproblemas de las Olimpíadas de Matemática.",
+    "duracion" : "5 semanas",
+    "cantidadHoras" : 30,
+    "fechaDeRegistro" : "12/7/2019",
+    "creditos" : 2,
+    "previas": ["Talleres plenarios"],
+    "ediciones" : ["Seminarios de Resolución de Problemas - 2019"],
+    "programas" : ["Formación integral"],
+    "categorias" : [],
+    "instituto" : "IMERL",
+    "url" : "www.tmu.edu.uy",
+    "src" : "http://bit.ly/2mnDYwd"
+
+},
+{
+    "nombre" : "Herramientas de apoyo a la enseñanza de inglés.Instalación y evaluación",
+    "descripcion" : "Se realizarán visitas a escuelas rurales participantes en un proyectoconjunto del grupo PLN y el Programa de Políticas Lingüísticas deANEP,  en  el  marco  del  cual  se  desarrollaron  diferentesherramientas  para  uso  de  maestros  que  enseñan  inglés  con  apoyoremoto de profesores especializados desde Montevideo.",
+    "duracion" : "12 semanas",
+    "cantidadHoras" : 60,
+    "fechaDeRegistro" : "24/5/2019",
+    "creditos" : 4,
+    "previas": [],
+    "ediciones" : [],
+    "programas" : [],
+    "categorias" : ["Social","Educativo"],
+    "instituto" : "INCO",
+    "url" : "https://eva.fing.edu.uy/mod/folder/view.php?id=89398",
+    "src" : ""
+},
+
+{
+    
+    "nombre" : "Dalavuelta",
+    "descripcion" : "Dalavuelta es un proyecto de extensión que nace en el Instituto deIngeniería Mecánica y Producción Industrial (IIMPI) de Fing, que, sibien  inicia  su  trabajo  en  el  desarrollo  de  bicicletas  accesibles  parapersonas en situación de discapacidad motriz a partir de bicicletasabandonadas, se propuso diseñar otras herramientas para fomentarla accesibilidad.",
+    "duracion" : "10 semanas",
+    "cantidadHoras" : 60,
+    "fechaDeRegistro" : "25/6/2019",
+    "creditos" : 4,
+    "previas": ["Talleres plenarios"],
+    "ediciones" : ["Dalavuelta - 2018"],
+    "programas" : ["EFI Ingeniería Mecánica"],
+    "categorias" : ["Social"],
+    "instituto" : "IMPII",
+    "url" : "https://eva.fing.edu.uy/course/view.php?id=783#section-2",
+    "src" : "http://bit.ly/2lRnEU1"
+
+},
+
+{
+    
+    "nombre" : "Extensionismo Industrial",
+    "descripcion" : "El  proyecto  tiene  como  objetivo  desarrollar  intervencionescurriculares  en  pequeños  emprendimientos  productivos  dediferentes  sectores  de  la  industria  nacional.La  metodologías  detrabajo  permite  articular  diversas  intervenciones,  combinandoactividades  de  enseñanza,  extensión  e  investigación  por  parte  dedocentes del IMPII.",
+    "duracion" : "12 semanas",
+    "cantidadHoras" : 75,
+    "fechaDeRegistro" : "16/6/2019",
+    "creditos" : 5,
+    "previas": ["Talleres plenarios"],
+    "ediciones" : [""],
+    "programas" : ["EFI Ingeniería Mecánica","Formación integral"],
+    "categorias" : ["Industrial"],
+    "instituto" : "IMPII",
+    "url" : "https://eva.fing.edu.uy/course/view.php?id=783#section-2",
+    "src" : "http://bit.ly/2mngdEx"
+
+},
+
+{
+    
+    "nombre" : "Inclusión Energética",
+    "descripcion" : "En el proyecto se conjuga el trabajo de docentes y estudiantes de la carrera  Ingeniería  Industrial  Mecánica  a  través  del  Módulo  deExtensión, en donde se trabaja en el diseño, construcción y pruebade  un  prototipo  de  colector  solar  adquiriendo  conocimientosrelevantes  para  luego  poder  replicarlos  junto  a  las  familias  en  lostalleres. Las premisas fundamentales a la hora de pensar los diseñosson:  por  un  lado  el  bajo  costo  de  los  materiales  y  por  otro  la  fácilconstrucción de forma de poder construirlos ellos mismos.",
+    "duracion" : "6 semanas",
+    "cantidadHoras" : 45,
+    "fechaDeRegistro" : "01/2/2019",
+    "creditos" : 3,
+    "previas": [],
+    "ediciones" : ["Inclusión Energética - 2019", "Extensionismo Industrial - 2018"],
+    "programas" : ["EFI Ingeniería Mecánica"],
+    "categorias" : ["Industrial","Interdiciplinario"],
+    "instituto" : "IMPII",
+    "url" : "https://eva.fing.edu.uy/course/view.php?id=783#section-2",
+    "src" : "http://bit.ly/2kPGN8K"
+
+},
+
+{
+    
+    "nombre" : "Flor del Ceibo",
+    "descripcion" : "Flor  de  Ceibo  es  un  proyecto  central  de  la  Universidad  de  laRepública,  que  tiene  misión  por  movilizar  la  participación  deestudiantes  universitarios  en  diversas  tareas  vinculadas  con  lapuesta en funcionamiento del Plan Ceibal en el territorio nacional",
+    "duracion" : "15 semanas",
+    "cantidadHoras" : 150,
+    "fechaDeRegistro" : "27/7/2008",
+    "creditos" : 10,
+    "previas": [],
+    "ediciones" : ["Flor del Ceibo - 2018","Flor del Ceibo - 2012","Flor del Ceibo - 2010"],
+    "programas" : ["Formación integral"],
+    "categorias" : ["Educativo"],
+    "instituto" : "DISI",
+    "url" : "http://www.flordeceibo.edu.uy",
+    "src" : "http://bit.ly/2mmRXCk"
+
+},
+
+{
+    
+    "nombre" : "MicroBit",
+    "descripcion" : "El  Centro  Ceibal  se  encuentra  distribuyendo  placas  micro:bit(https://microbit.ceibal.edu.uy/) para que estudiantes de primariay  secundaria  aprendan  nociones  básicas  de  robótica,  electrónica  yprogramación de forma autónoma y lúdica. Estas placas se basan enun  microcontrolador  y  cuentan  con  leds,  botones,  acelerómetro,brújula,  bluetooth  y  otros  sensores.  Además,  las  placas  seprograman fácilmente con lenguaje tipo “scratch” y python, por loque son muy útiles para un primer acercamiento a la temática.",
+    "duracion" : "15 semanas",
+    "cantidadHoras" : 105,
+    "fechaDeRegistro" : "13/3/2019",
+    "creditos" : 7,
+    "previas": [],
+    "ediciones" : ["MicroBit - 2019"],
+    "programas" : [""],
+    "categorias" : ["Industrial","Educativo"],
+    "instituto" : "Eléctrica",
+    "url" : "https://www.fing.edu.uy/noticias/extension/modulo-de-tallerextension-microbit",
+    "src" : "http://bit.ly/2kOZ6ec"
+
+}
+
+]

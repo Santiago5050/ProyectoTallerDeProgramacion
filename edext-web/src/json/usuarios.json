@@ -1,0 +1,425 @@
+[
+    {
+        "nickname": "watson",
+        "nombre": "Emma",
+        "apellido": "Watson",
+        "mail": "e.watson@gmail.com",
+        "fechaNacimiento": "15/4/1990",
+        "instituto": "INCO",
+        "src": "http://bit.ly/2kEQI0Y",
+        "ediciones": [
+            {
+                "nombre": "Taller de robótica educativa - 2019-2"
+            }, 
+            {
+                "nombre": "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019"
+            }
+        ]
+    },
+    {
+        "nickname": "roro",
+        "nombre": "Rodrigo",
+        "apellido": "Cotelo",
+        "mail": "rcotelo@yahoo.com",
+        "fechaNacimiento": "2/8/1975",
+        "src": "http://bit.ly/Xwsg0F",
+        "ediciones": [
+            {
+                "nombre": "Taller de robótica educativa - 2019-2",
+                "estado": "rechazado"
+            }, 
+            {
+                "nombre": "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019",
+                "estado": "aceptado"
+            },
+            {
+                "nombre":"Flor del Ceibo - 2012",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Flor del Ceibo - 2018",
+                "estado": "inscripto"
+            },
+            {
+                "nombre": "Dalavuelta - 2018",
+                "estado": "aceptado"
+            },
+            {
+                "nombre":"Taller de robótica educativa - 2017",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"MicroBit - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Talleres Plenarios - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre" : "Seminarios de Resolución de Problemas - 2019",
+                "estado": "inscripto"
+            }
+        ],
+        "programas": ["Formación integral","EFI Robótica"]
+    },
+    {
+        "nickname": "weiss",
+        "nombre": "Adrian",
+        "apellido": "Weiss",
+        "mail": "aweiss@hotmail.com",
+        "fechaNacimiento": "23/12/1978",
+        "src": "http://bit.ly/2kMGyLP",
+        "ediciones": [
+            {
+                "nombre": "Taller de robótica educativa - 2019-2",
+                "estado": "inscripto"
+            }, 
+            {
+                "nombre": "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019",
+                "estado": "inscripto"
+            }, 
+            {
+                "nombre": "Herramientas de apoyo a la enseñanza de inglés. Instalación y evaluación - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Flor del Ceibo - 2012",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Extensionismo Industrial - 2018",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Inclusión Energética - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Taller de robótica educativa - 2017",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Talleres Plenarios - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre" : "Seminarios de Resolución de Problemas - 2019",
+                "estado": "inscripto"
+            }
+        ],
+        "programas": ["Formación integral"]
+    },
+    {
+        "nickname": "chechi",
+        "nombre": "Cecilia",
+        "apellido": "Garrido",
+        "mail": "cgarrido@hotmail.com",
+        "fechaNacimiento": "12/9/1987",
+        "src": "http://bit.ly/2mv6Gv5",
+        "ediciones": [
+            {
+                "nombre": "Flor del Ceibo - 2010",
+                "estado": "aceptado"
+            }, 
+            {
+                "nombre": "Dalavuelta - 2018",
+                "estado": "aceptado"
+            },
+            {
+                "nombre":"Extensionismo Industrial - 2018",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Inclusión Energética - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Taller de robótica educativa - 2017",
+                "estado": "inscripto"
+            },
+             {
+                "nombre": "Taller de robótica educativa - 2019-2",
+                "estado": "inscripto"
+            },
+            {
+                "nombre": "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"MicroBit - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre" : "Seminarios de Resolución de Problemas - 2019",
+                "estado": "inscripto"
+            }
+        ],
+        "programas": ["EFI Ingeniería Mecánica","Formación integral","EFI Robótica"]
+    },
+    {
+        "nickname": "eleven11",
+        "nombre": "Eleven",
+        "apellido": "",
+        "mail": "eleven11@gmail.com",
+        "src": "http://bit.ly/11Eleven11",
+        "fechaNacimiento": "31/12/1971",
+        "ediciones": [
+            {
+                "nombre": "Flor del Ceibo - 2010",
+                "estado": "aceptado"
+            }, 
+            {
+                "nombre": "Dalavuelta - 2018",
+                "estado": "aceptado"
+            },
+            {
+                "nombre":"Extensionismo Industrial - 2018",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Inclusión Energética - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Taller de robótica educativa - 2017",
+                "estado": "inscripto"
+            },
+            {
+                "nombre": "Herramientas de apoyo a la enseñanza de inglés. Instalación y evaluación - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"MicroBit - 2019",
+                "estado": "inscripto"
+            }
+        ],
+        "programas": ["EFI Ingeniería Mecánica","Formación integral"]
+    },
+    {
+        "nickname": "costas",
+        "nombre": "Gerardo",
+        "apellido": "Costas",
+        "mail": "gcostas@gmail.com",
+        "fechaNacimiento": "15/11/1983",
+        "src": "http://bit.ly/1yTfPav",
+        "ediciones": [
+            {
+                "nombre": "Flor del Ceibo - 2012",
+                "estado": "aceptado"
+            }, 
+            {
+                "nombre": "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019",
+                "estado": "aceptado"
+            },
+            {
+                "nombre": "Dalavuelta - 2018",
+                "estado": "aceptado"
+            },
+            {
+                "nombre":"Extensionismo Industrial - 2018",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Taller de robótica educativa - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"Talleres Plenarios - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre" : "Seminarios de Resolución de Problemas - 2019",
+                "estado": "inscripto"
+            }
+        ],
+        "programas": ["Formación integral","EFI Robótica"]
+    },
+    {
+        "nickname": "jeffw",
+        "nombre": "Jeff",
+        "apellido": "Williams",
+        "mail": "jwilliams@gmail.com",
+        "fechaNacimiento": "15/11/1983",
+        "src": "",
+        "ediciones": [
+            {
+                "nombre": "Flor del Ceibo - 2018",
+                "estado": "aceptado"
+            }, 
+            {
+                "nombre": "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019",
+                "estado": "aceptado"
+            },
+            {
+                "nombre": "Dalavuelta - 2018",
+                "estado": "aceptado"
+            },
+            {
+                "nombre":"Taller de robótica educativa - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre": "Herramientas de apoyo a la enseñanza de inglés. Instalación y evaluación - 2019",
+                "estado": "inscripto"
+            },
+            {
+                "nombre":"MicroBit - 2019",
+                "estado": "inscripto"
+            }
+        ],
+        "programas": ["EFI Robótica"]
+    },
+
+    {
+        "nickname": "heisenberg",
+        "nombre": "Walter",
+        "apellido": "White",
+        "mail": "heisenberg@gmail.com",
+        "instituto": "INCO",
+        "fechaNacimiento": "7/3/1956",
+        "src": "http://bit.ly/2kR3Csv",
+        "ediciones": [
+            {
+                "nombre": "Taller de robótica educativa - 2017"
+            },
+            {
+                "nombre": "Taller de robótica educativa - 2019"
+            },
+            {
+                "nombre": "Herramientas de apoyo a la enseñanza de inglés. Instalación y evaluación - 2019"
+            } 
+           
+        ]
+        
+    },
+    {
+        "nickname": "benkenobi",
+        "nombre": "Obi-Wan",
+        "apellido": "Kenobi",
+        "mail": "benKenobi@gmail.com",
+        "instituto": "INCO",
+        "fechaNacimiento": "2/4/1914",
+        "src": "http://bit.ly/2lU9e5y",
+        "ediciones": [
+            {
+                "nombre": "Taller de robótica educativa - 2019"
+            },
+            {
+                "nombre": "Taller de robótica educativa - 2019-2"
+            }  
+        ]
+    },
+    {
+        "nickname": "house",
+        "nombre": "Gregory",
+        "apellido": "House",
+        "mail": "greghouse@gmail.com",
+        "instituto": "Electrica",
+        "fechaNacimiento": "15/5/1959",
+        "src": "http://bit.ly/2lTUCDg",
+        "ediciones": [
+            {
+                "nombre": "MicroBit - 2019"
+            }
+        ]
+       
+    },
+    {
+        "nickname": "timmy",
+        "nombre": "Tim",
+        "apellido": "Cook",
+        "mail": "tim.cook@apple.com",
+        "instituto": "IMERL",
+        "fechaNacimiento": "1/11/1960",
+        "src": "http://bit.ly/2kRed6K",
+        "ediciones": [
+            {
+                "nombre": "Talleres Plenarios - 2019"
+            },  
+            {
+                "nombre": "Seminarios de Resolución de Problemas - 2019"
+            }
+        ]
+        
+    },
+    {
+        "nickname": "danny",
+        "nombre": "Daniel",
+        "apellido": "Riccio",
+        "mail": "dan.riccio@gmail.com",
+        "instituto": "IMERL",
+        "fechaNacimiento": "5/7/1963",
+        "src": "http://bit.ly/2kRnpYR",
+        "ediciones": [
+            {
+                "nombre": "Talleres Plenarios - 2019"
+            }
+        ]
+    
+    },
+    {
+        "nickname": "phils",
+        "nombre": "Philip",
+        "apellido": "Schiller",
+        "mail": "schiller@gmail.com",
+        "instituto": "IMPII",
+        "fechaNacimiento": "7/10/1961",
+        "src": "http://bit.ly/2kQ4Cxc",
+        "ediciones": [
+            {
+                "nombre": "Extensionismo Industrial - 2018"
+                
+            },
+            {
+                "nombre": "Dalavuelta - 2018"
+                
+            },
+            {
+                "nombre": "Inclusión Energética - 2019"
+                
+            } 
+          
+        ]
+        
+    },
+    {
+        "nickname": "bruces",
+        "nombre": "Bruce",
+        "apellido": "Sewell",
+        "mail": "sewell@gmail.com",
+        "instituto": "DISI",
+        "fechaNacimiento": "3/12/1959",
+        "src": "http://bit.ly/2mjQAEl",
+        "ediciones": [
+            {
+                "nombre": "Flor del Ceibo - 2010"
+            }, 
+            {
+                "nombre": "Flor del Ceibo - 2012"   
+            },
+            {
+                "nombre": "Flor del Ceibo - 2018"   
+            }
+        ]
+        
+    },
+    {
+        "nickname": "adri",
+        "nombre": "Adriana",
+        "apellido": "Garcia",
+        "mail": "agarcia@gmail.com",
+        "instituto": "DISI",
+        "fechaNacimiento": "28/7/1978",
+        "src": "",
+        "ediciones": [
+            {
+                "nombre": "Flor del Ceibo - 2012"   
+            },
+            {
+                "nombre": "Flor del Ceibo - 2018"   
+            }
+        ]
+    }
+
+]

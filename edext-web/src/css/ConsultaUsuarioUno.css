@@ -1,0 +1,16 @@
+.ConsultaUsuarioUno .cabezal {
+    margin-top: 0.5rem;
+    padding-left: 1.5rem;
+}
+
+.ConsultaUsuarioUno #header-consulta-usuario-uno {
+    background-color: #54BF81;
+    color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-top: 90px;
+}
+.ConsultaUsuarioUno #tabla-consulta-usuario-uno {
+    margin-top: 2.0rem;
+}

@@ -1,0 +1,37 @@
+.comentario {
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    border-color: #59bf81;
+    margin-bottom: .5em;
+}
+
+.comentario .fila-comentario {
+    width: 100%;
+}
+
+.comentario .container-imagen {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding: 1.2rem;
+}
+
+.comentario .container-imagen img {
+    height: 130px;
+    border: solid 1px #59bf81;
+    width: auto !important;
+}
+
+.comentario .container-stars {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.comentario .container-valoracion {
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+    justify-content: center;
+}

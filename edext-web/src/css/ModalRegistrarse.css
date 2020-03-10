@@ -1,0 +1,47 @@
+.modalRegistrarse .row .checkbox{
+    margin-left: 7.0rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.0rem;
+}
+
+.modalRegistrarse .row .combo{
+    margin-left: 5.0rem;
+    margin-top: 1.0rem;
+    margin-bottom: 1.0rem;
+}
+
+.modalRegistrarse  .btn-primary {
+    color: white;
+    background-color: #54BF81;
+    border-color: #54BF81;
+    box-shadow: none;
+}
+
+.modalRegistrarse  .btn-primary:hover {
+    color: white;
+    background-color: #8EF8B7;
+    border-color: #8EF8B7;
+    box-shadow: none;
+}
+
+.modalRegistrarse  .btn-primary:active {
+    color: white !important;
+    background-color: #54BF81 !important;
+    border-color: #54BF81 !important;
+    box-shadow: none !important;
+}
+
+.contrasenas-no-coinciden-3498 {
+    color: red !important;
+    font-weight: bold !important;
+}
+
+.usuario-ya-existe-3498 {
+    color: red !important;
+    font-weight: bold !important;
+}
+
+.mail-ya-existe-3498 {
+    color: red !important;
+    font-weight: bold !important;
+}

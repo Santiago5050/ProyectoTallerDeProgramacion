@@ -1,0 +1,33 @@
+[
+    {
+        "nombre":"EFI Robótica",
+        "descripcion": "Programa robótica",
+        "fechaInicio": "3/9/2019",
+        "fechaFin" : "18/11/2019",
+        "fechaAlta" : "1/9/2019",
+        "cursos" : ["Taller de robótica educativa", "MicroBit"],
+        "categorias": ["Social","Industrial","Educativo"],
+        "src" : "http://bit.ly/2kFcGRu"
+    },
+    {
+        "nombre":"Formación integral",
+        "descripcion": "Programa varios institutos",
+        "fechaInicio": "15/7/2019",
+        "fechaFin" : "1/1/2020",
+        "fechaAlta" : "1/7/2019",
+        "cursos" : ["Extensionismo Industrial", "Flor del Ceibo","Seminarios  de  Resolución  de Problema"],
+        "categorias": ["Industrial","Educativo"],
+        "src" : ""
+    },
+    {
+        "nombre":"EFI Ingeniería Mecánica",
+        "descripcion": "Programa mecánica",
+        "fechaInicio": "1/5/2019",
+        "fechaFin" : "31/10/2019",
+        "fechaAlta" : "1/4/2019",
+        "cursos" : ["Dalavuelta", "Extensionismo Industrial","Inclusión Energética"],
+        "categorias": ["Industrial","Interdiciplinario","Social"],
+        "src" : "http://bit.ly/2lUzDAc"
+    }
+
+]

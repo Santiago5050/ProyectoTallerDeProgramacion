@@ -1,0 +1,5 @@
+#reproductorVideoModal .modal-body {
+    width: auto;
+    height: auto;
+    display: flex;
+}

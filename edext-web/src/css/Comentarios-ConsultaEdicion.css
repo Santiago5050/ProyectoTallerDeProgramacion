@@ -1,0 +1,8 @@
+.fila-comentarios {
+    margin-top: 1em;
+}
+
+.fila-comentarios .titulo {
+    display: inline-block;
+    margin: 1em 1em 0px 2em;
+}

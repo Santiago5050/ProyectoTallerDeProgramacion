@@ -1,0 +1,208 @@
+.consulta-edicion-curso .header-edicion {
+    display: flex;
+    background-color: #54BF81;
+    border-radius: 5px;
+    padding: 2em;
+    margin-top: 1em;
+    flex-wrap: wrap;
+}
+
+.consulta-edicion-curso .header-edicion img {
+    margin-right: 2em;
+    width: 200px;
+}
+
+.consulta-edicion-curso .header-edicion .nombre-edicion {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+}
+
+.consulta-edicion-curso .header-edicion .instituto-edicion {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.3em;
+}
+
+.consulta-edicion-curso .header-edicion button {
+    color: #000;
+    border-color: #000;
+    box-shadow: none !important;
+}
+
+.consulta-edicion-curso .header-edicion button:hover {
+    color: #000;
+    background-color: #8EF8B7 !important;
+    border-color: #8EF8B7 !important;
+    box-shadow: none !important;
+}
+
+.consulta-edicion-curso .header-edicion button:active {
+    color: #000;
+    border-color: #000;
+    box-shadow: none;
+}
+
+.consulta-edicion-curso .header-edicion .sub-texto {
+    color: white;
+    font-size: 1.3em;
+}
+
+.consulta-edicion-curso .header-edicion .msj {
+    color: rgb(109, 100, 100);
+    font-size: 1em;
+}
+
+.consulta-edicion-curso .fila-datos {
+    padding-top: 1em;
+    display: flex;
+}
+
+.consulta-edicion-curso .datos-edicion {
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border: 2px solid #54BF81;
+    border-radius: 5px;
+    height: 100%;
+}
+
+@media (max-width: 500px) {
+    .consulta-edicion-curso .container-datos-edicion {
+      padding-right: 0px !important;
+    }
+
+    .consulta-edicion-curso .container-table-docentes {
+        margin-top: 1em !important;
+    }
+}
+
+.consulta-edicion-curso .datos-edicion ul{
+    width: 100%;
+}
+
+.consulta-edicion-curso .datos-edicion .title-text{
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.consulta-edicion-curso #tabla-docentes-consulta-edicion {
+    flex: 1 1 100%;
+    margin-left: 1em;
+}
+
+.consulta-edicion-curso #tabla-docentes-consulta-edicion i{
+    margin-left: 1.3em;
+    font-size: 1.3em;
+}
+
+.consulta-edicion-curso #tabla-docentes-consulta-edicion a{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.consulta-edicion-curso #tabla-docentes-consulta-edicion a:hover{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.consulta-edicion-curso #tabla-docentes-consulta-edicion a:active{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00E5FF;
+}
+
+.consulta-edicion-curso .container-table-docentes {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    flex: 1 1 100%;
+    border: #54BF81 solid 2px;
+    border-radius: 5px;
+    padding: 0px;
+}
+
+.consulta-edicion-curso .fila-estudiantes {
+    margin-top: 1em;
+    border: #54BF81 solid 2px;
+    border-radius: 5px;
+}
+
+.consulta-edicion-curso .fila-estudiantes .tabla-opciones {
+    margin-top: auto;
+    font-size: 1.3em;
+    display: flex;
+    align-items: start;
+}
+
+.consulta-edicion-curso .fila-estudiantes .tabla-opciones a{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.consulta-edicion-curso .fila-estudiantes .tabla-opciones a:hover{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.consulta-edicion-curso .fila-estudiantes .tabla-opciones a:active{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00E5FF;
+}
+
+.consulta-edicion-curso .fila-estudiantes .campo-nota a{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.consulta-edicion-curso .fila-estudiantes .campo-nota a:hover{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00364D;
+}
+
+.consulta-edicion-curso .fila-estudiantes .campo-nota a:active{
+    margin-right: 0.5em;
+    cursor: pointer;
+    color: #00E5FF;
+}
+
+.consulta-edicion-curso .fila-estudiantes .campo-nota {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+.consulta-edicion-curso .fila-estudiantes .campo-nota input {
+    width: 60%;
+}
+
+.consulta-edicion-curso .fila-check .check-aceptados-contenedor {
+    padding: 1em;
+    margin-left: 1em;
+}
+
+.consulta-edicion-curso .custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    background-color: #54BF81;
+    border-color: #54BF81;
+}
+
+.consulta-edicion-curso .fila-comentar {
+    margin-top: 1em;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.consulta-edicion-curso .pie-comentario {
+    display: flex;
+    justify-content: space-between;
+}

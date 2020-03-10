@@ -1,0 +1,88 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>edEXT</groupId>
+  <artifactId>edEXT-parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>Proyecto edEXT</name>
+  <url>http://maven.apache.org</url>
+  
+  <modules>
+    <module>tprogLab1/pom.xml</module>
+    <module>edext-server-web/pom.xml</module>
+  </modules>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
+  <build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-codegen-plugin</artifactId>
+            <version>2.4.2</version>
+            <executions>
+               <execution>
+                  <id>generate-sources</id>
+                  <phase>generate-sources</phase>
+                  <configuration>
+                     <sourceRoot>${basedir}/edext-server-web/src/</sourceRoot>
+                     <wsdlOptions>
+                        <wsdlOption>
+                           <wsdl>${basedir}/tprogLab1/wsdl/publicador.xml</wsdl>
+                        </wsdlOption>
+                     </wsdlOptions>
+                  </configuration>
+                  <goals>
+                     <goal>wsdl2java</goal>
+                  </goals>
+               </execution>
+            </executions>
+         </plugin>
+           <plugin>
+            <groupId>com.coderplus.maven.plugins</groupId>
+            <artifactId>copy-rename-maven-plugin</artifactId>
+            <version>1.0.1</version>
+            <executions>
+            <execution>
+                <id>rename-file</id>
+                <phase>package</phase>
+                <goals>
+                <goal>rename</goal>
+                </goals>
+                <configuration>
+                <sourceFile>${basedir}/edext-server-web/target/edEXT-server-web-0.0.1-SNAPSHOT.war</sourceFile>
+                <destinationFile>${basedir}/application/edext-server-web.war</destinationFile>
+                </configuration>
+            </execution>
+            <execution>
+                <id>rename-file2</id>
+                <phase>package</phase>
+                <goals>
+                <goal>rename</goal>
+                </goals>
+                <configuration>
+                <sourceFile>${basedir}/tprogLab1/target/edEXT-backend-0.0.1-SNAPSHOT-jar-with-dependencies.jar</sourceFile>
+                <destinationFile>${basedir}/application/edext-backend.jar</destinationFile>
+                </configuration>
+            </execution>
+            <execution>
+                <id>rename-file3</id>
+                <phase>package</phase>
+                <goals>
+                <goal>copy</goal>
+                </goals>
+                <configuration>
+                <sourceFile>${basedir}/tprogLab1/config.properties</sourceFile>
+                <destinationFile>${basedir}/application/config.properties</destinationFile>
+                </configuration>
+            </execution>
+            </executions>
+        </plugin>
+		</plugins>
+	</build>
+</project>

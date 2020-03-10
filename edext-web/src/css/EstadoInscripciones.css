@@ -1,0 +1,16 @@
+.EstadoInscripciones .cabezal {
+    margin-top: 0.5rem;
+    padding-left: 1.5rem;
+}
+
+.EstadoInscripciones #header-estado-inscripciones {
+    background-color: #54BF81;
+    color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-top: 90px;
+}
+.EstadoInscripciones #div-tabla-estado-inscripciones {
+    margin-top: 2.0rem;
+}

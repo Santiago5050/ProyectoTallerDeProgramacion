@@ -1,0 +1,129 @@
+[
+    {
+        "nombre" : "Taller de robótica educativa - 2019-2",
+        "fechaInicio" : "10/9/2019",
+        "fechaFin": "8/11/2019",
+        "cupo" : 20,
+        "fechaPublicacion" : "15/8/2019",
+        "vigencia" : true,
+        "src" : "http://bit.ly/2kOYpS9"
+    },
+    {
+        "nombre" : "Participación en investigación sobre el empleo del juego Komikan como recurso didáctico en la Escuela - 2019",
+        "fechaInicio" : "29/7/2019",
+        "fechaFin": "7/10/2019",
+        "cupo" : 5,
+        "fechaPublicacion" : "10/7/2019",
+        "vigencia" : true,
+        "src" : ""
+    },
+    {
+        "nombre" : "Herramientas de apoyo a la enseñanza de inglés. Instalación y evaluación - 2019",
+        "fechaInicio" : "16/6/2019",
+        "fechaFin": "25/6/2019",
+        "cupo" : 35,
+        "fechaPublicacion" : "25/5/2019",
+        "vigencia" : true,
+        "src" : ""
+    },
+    {
+        "nombre" : "Flor del Ceibo - 2010",
+        "fechaInicio" : "15/3/2010",
+        "fechaFin": "7/7/2010",
+        "cupo" : 0,
+        "fechaPublicacion" : "16/2/2010",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2kS4JID"
+    },
+    {
+        "nombre" : "Flor del Ceibo - 2012",
+        "fechaInicio" : "1/8/2012",
+        "fechaFin": "20/11/2012",
+        "cupo" : 0,
+        "fechaPublicacion" : "10/7/2012",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2kqYgEm"
+    },
+    {
+        "nombre" : "Flor del Ceibo - 2018",
+        "fechaInicio" : "10/4/2018",
+        "fechaFin": "7/8/2018",
+        "cupo" : 0,
+        "fechaPublicacion" : "6/3/2018",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2lSYzrY"
+    },
+    {
+        "nombre" : "Dalavuelta - 2018",
+        "fechaInicio" : "20/8/2018",
+        "fechaFin": "10/11/2018",
+        "cupo" : 15,
+        "fechaPublicacion" : "20/7/2017",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2lSzxcu"
+    },
+    {
+        "nombre" : "Extensionismo Industrial - 2018",
+        "fechaInicio" : "10/8/2018",
+        "fechaFin": "10/11/2018",
+        "cupo" : 15,
+        "fechaPublicacion" : "8/7/2018",
+        "vigencia" : false,
+        "src" : ""
+    },
+    {
+        "nombre" : "Inclusión Energética - 2019",
+        "fechaInicio" : "15/3/2019",
+        "fechaFin": "30/4/2019",
+        "cupo" : 30,
+        "fechaPublicacion" : "20/2/2019",
+        "vigencia" : true,
+        "src" : "http://bit.ly/2lTiqqY"
+    },
+    {
+        "nombre" : "Taller de robótica educativa - 2019",
+        "fechaInicio" : "10/3/2019",
+        "fechaFin": "10/5/2019",
+        "cupo" : 10,
+        "fechaPublicacion" : "15/2/2019",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2kOYlln"
+    },
+    {
+        "nombre" : "Taller de robótica educativa - 2017",
+        "fechaInicio" : "10/3/2017",
+        "fechaFin": "10/5/2017",
+        "cupo" : 10,
+        "fechaPublicacion" : "15/2/2017",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2kFn9fI"
+    },
+    {
+        "nombre" : "MicroBit - 2019",
+        "fechaInicio" : "12/8/2019",
+        "fechaFin": "5/12/2019",
+        "cupo" : 30,
+        "fechaPublicacion" : "2/7/2019",
+        "vigencia" : true,
+        "src" : "http://bit.ly/2ki18mK"
+    },
+    {
+        "nombre" : "Talleres Plenarios - 2019",
+        "fechaInicio" : "10/3/2019",
+        "fechaFin": "30/3/2019",
+        "cupo" : 0,
+        "fechaPublicacion" : "2/3/2019",
+        "vigencia" : false,
+        "src" : "http://bit.ly/2ki1oSK"
+    },
+    {
+        "nombre" : "Seminarios de Resolución de Problemas - 2019",
+        "fechaInicio" : "10/9/2019",
+        "fechaFin": "20/10/2019",
+        "cupo" : 0,
+        "fechaPublicacion" : "12/7/2019",
+        "vigencia" : true,
+        "src" : ""
+    }
+    
+]

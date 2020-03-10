@@ -1,0 +1,82 @@
+.agregar-curso-programa thead th{
+    background-color: #54BF81;
+    border-color: #54BF81;
+}
+
+.agregar-curso-programa .custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    background-color: #54BF81;
+    border-color: #54BF81;
+}
+
+.agregar-curso-programa .custom-control{
+    margin-left: 1.3em;
+}
+
+.agregar-curso-programa .contenedor-tabla {
+    padding: 0px;
+}
+
+.agregar-curso-programa #tabla-agregar-curso-programa {
+    margin-top: 2em;
+}
+
+/* HEADER + BOTON ACEPTAR */
+.agregar-curso-programa {
+    padding-top: 1em;
+}   
+
+.agregar-curso-programa .fila-btn-aceptar {
+    border: #54BF81 solid 2px;
+    border-radius: 5px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #54BF81
+}
+
+.agregar-curso-programa .fila-btn-aceptar .col-datos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.agregar-curso-programa .fila-btn-aceptar .contenedor-btn-aceptar {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+}
+
+.agregar-curso-programa .fila-btn-aceptar p {
+    flex: 1 1 100%;
+    margin: 0px;
+    font-size: 2em;
+    color: white;
+    border-bottom: #00364D solid 1px;
+    margin-bottom: .5em;
+}
+
+.agregar-curso-programa .fila-btn-aceptar span {
+    font-size: 1.2em;
+    color: white;
+}
+
+.agregar-curso-programa .fila-btn-aceptar button {
+    color: black;
+    background-color: #54BF81;
+    border-color: black;
+    box-shadow: none;
+}
+
+.agregar-curso-programa .fila-btn-aceptar button:hover {
+    color: black;
+    background-color: #8EF8B7;
+    border-color: #8EF8B7;
+    box-shadow: none;
+}
+
+.agregar-curso-programa .fila-btn-aceptar button:active {
+    color: black !important;
+    background-color: #54BF81 !important;
+    border-color: #54BF81 !important;
+    box-shadow: none !important;
+}
